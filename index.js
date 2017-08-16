@@ -16,7 +16,7 @@ bot.onText(/\/roll/, (msg, match) => {
     } else if (name == "Lucas") {
         bot.sendMessage(chatId, "Pharaó rollou: " + random);
     } else if (name == "Kenji") {
-        bot.sendMessage(chatId, "MED UNESP PORRA!: " + random);
+        bot.sendMessage(chatId, "Astolfo: " + random);
     } else if (name == "Fuku") {
         bot.sendMessage(chatId, "A princesa rollou: " + random);
     } else if (name == "Luís") {
