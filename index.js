@@ -22,7 +22,7 @@ bot.onText(/\/roll/, (msg, match) => {
     } else if (name == "Luís") {
         bot.sendMessage(chatId, "O barriu rollou: " + random);
     } else if (name == "Allan") {
-        bot.sendMessage(chatId, "O milhonário rollou: " + random);
+        bot.sendMessage(chatId, "O milionário rollou: " + random);
     }else {
         bot.sendMessage(chatId, name + ": " + random);
     }
