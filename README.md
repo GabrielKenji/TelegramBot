@@ -1,2 +1,2 @@
 # TelegramBot
-Some tests with telegram bots with node
+Some tests with telegram bots using node
